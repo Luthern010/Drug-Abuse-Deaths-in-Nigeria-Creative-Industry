@@ -7,3 +7,9 @@ The data used is provided by the Nigerian Bureau of Statistics with technical su
 
 ## About the dataset
 The dataset include details of creatives drug use, year of death, Drugs involve, Manner of Death, Profession of deceased and geopolitical
+
+## Conclusions
+1. More deaths due to drug abuse occured in the past decade between 1993 and 2003 cmopared to any other decades.
+2. Musicians take the largest portion of deaths from drug abuse compared to other professionals in the Nigerian creative space.
+3. Lagos state accounts for 14% (highest) of drug use prevalence in the country.
+4. Phamarceuticals opiods is the cause of most deaths due to drug abuse.
