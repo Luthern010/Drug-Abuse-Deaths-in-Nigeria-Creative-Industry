@@ -13,3 +13,4 @@ The dataset include details of creatives drug use, year of death, Drugs involve,
 2. Musicians take the largest portion of deaths from drug abuse compared to other professionals in the Nigerian creative space.
 3. Lagos state accounts for 14% (highest) of drug use prevalence in the country.
 4. Phamarceuticals opiods is the cause of most deaths due to drug abuse.
+5. Most cases are ascribed to suicide following the unknown causes.
